@@ -11,7 +11,6 @@ Generates heatmaps for country, continent, and global scales.
 User-friendly interface for loading data and specifying parameters.
 Supports visualization for distinct time periods.
 Interactive maps allow for in-depth analysis of genetic distances.
-Availability
-The tool is available at HIDWIG GitHub Repository.
+
 
 For further details and support, contact andre.bourbonnais@student.lu.se.
