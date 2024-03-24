@@ -8,14 +8,13 @@ library(mapview)
 library(rnaturalearth)
 library(stars)
 library(gstat)
-library(leaflet)
 library(digest)
+library(leaflet)
 library(viridis)
 
 # Sourced functions from scripts
 source("scripts/data_loading.R")
 source("scripts/interpolate.R")
-source("scripts/visualize.R")
 
 ui <- fluidPage(
   theme = shinytheme("slate"), # Apply the theme
