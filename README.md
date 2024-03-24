@@ -1,4 +1,4 @@
-# HIDWIG
+# HIDWIG <img src="www/logo.png" alt="logo" width="181" align="right"/>
 HIDWIG, or Heatmap by Inverse Distance Weight Interpolation of Genetic distances, is a novel R Shiny application for spatial visualization of genetic distances among populations. It uses inverse distance weight interpolation to generate heatmaps at various geographical levels, simplifying the analysis of genetic data across different time periods.
 
 ## Usage
