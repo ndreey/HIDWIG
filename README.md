@@ -7,7 +7,7 @@ Input requires an Excel file with genetic distances, geographic coordinates, and
 Users can select time periods for separate visualizations.
 Generates heatmaps for country, continent, and global scales.
 
-### Packages
+#### Packages
 
 | Package        | Version |
 |----------------|---------|
